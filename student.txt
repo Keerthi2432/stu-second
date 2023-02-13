@@ -3,3 +3,4 @@ roll no :4a8
 dept:ece
 marks :98
 hours :10
+subj : c java
